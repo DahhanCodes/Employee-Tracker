@@ -1,4 +1,4 @@
-<h1 align="center">tech_blog </h1>
+<h1 align="center">Employee Tracker</h1>
 
  ## **Description:**
  **A full CRUD back end application.**<br/>
